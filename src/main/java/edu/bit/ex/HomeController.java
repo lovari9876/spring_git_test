@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 // 1번 추가
+// 2번 추가
 
 /**
  * Handles requests for the application home page.
