@@ -37,6 +37,7 @@ public class HomeController {
 	}
 	
 	// 수정 1
+	// 수정2
 	
 	@RequestMapping(value = "/", method = RequestMethod.GET)
 	public String home2(Locale locale, Model model) {
